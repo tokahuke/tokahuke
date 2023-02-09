@@ -1,3 +1,3 @@
-Now, I can be a digital artist too!
+Now, I can be a digital artist too! Although the Voight-Kampff test has never been so relevant...
 
 ![Digital vibes](./ai.jpg)
